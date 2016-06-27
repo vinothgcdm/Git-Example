@@ -4,6 +4,7 @@ script:
 before_install:
     - echo "Before install 1"
     - echo "Before install 2"
+    - sudo apt-get update
 
 before_script:
     echo "Before script"
