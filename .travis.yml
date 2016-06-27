@@ -17,6 +17,4 @@ after_success:
 after_failure:
     echo "After failure"
 
-install:
-    echo "Installing..."
-    ./install-dependencies.sh
+install: ./install-dependencies.sh
