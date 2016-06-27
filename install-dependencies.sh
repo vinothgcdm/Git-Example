@@ -1,3 +1,3 @@
 #/bin/sh
 
-apt-get install -y gcc sdcc
+sudo apt-get install -y gcc sdcc
