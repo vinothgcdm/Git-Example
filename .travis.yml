@@ -19,3 +19,4 @@ after_failure:
 
 install:
     echo "Installing..."
+    ./install-dependencies.sh
