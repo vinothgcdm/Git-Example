@@ -1,2 +1,2 @@
-install:
-    echo "Install package"
+script:
+    echo "Only script"
