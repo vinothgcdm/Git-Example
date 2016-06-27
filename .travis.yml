@@ -2,7 +2,8 @@ script:
     echo "Only script"
 
 before_install:
-    echo "Before install: $TRAVIS_TEST_RESULT"
+    echo "Before install"
+    echo $TRAVIS_TEST_RESULT
 
 before_script:
     echo "Before script"
