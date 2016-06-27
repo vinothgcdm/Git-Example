@@ -19,3 +19,7 @@ after_failure:
     echo "After failure"
 
 install: ./install-dependencies.sh
+
+notifications:
+  email:
+    - vinothg.cdm@gmail.com
