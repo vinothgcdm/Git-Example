@@ -1,3 +1,3 @@
 #/bin/sh
 
-sudo apt-get install gcc sdcc -qq
+sudo apt-get install minicom
