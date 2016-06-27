@@ -1,8 +1,2 @@
-before_install:
-    echo "Before Install"
-
-script:
-    echo "Start script"
-
 install:
     echo "Install package"
