@@ -2,7 +2,6 @@
 
 int main(void)
 {
-	printf("Hello");
-	printf("Vinoth Kuamr");
+	printf("I am in Devemopment branch\n");
 	return 0;
 }
